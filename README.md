@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+I'm software developer passionate about everything in technology.
+
 <!--
 **ricardoferreirades/ricardoferreirades** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

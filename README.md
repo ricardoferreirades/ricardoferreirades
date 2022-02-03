@@ -1,11 +1,11 @@
-## Hey, I'm Ricardo 👋
+### Hey, I'm Ricardo 👋
 
 :sunglasses: - Software developer  
 :brazil: - Born in Brazil  
 :de: - Living in Germany  
 
 
-## Find me on
+### Find me on
 
 :briefcase: [Linkedin](https://www.linkedin.com/in/ricardoferreirades/)
 

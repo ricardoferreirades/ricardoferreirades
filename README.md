@@ -1,6 +1,13 @@
-### Hi there 👋
+## Hey, I'm Ricardo 👋
 
-I'm software developer passionate about everything in technology.
+:sunglasses: - Software developer
+:brazil: - Born in Brazil
+:de: Living in Germany
+
+
+## Find me on
+
+:briefcase: [Linkedin](https://www.linkedin.com/in/ricardoferreirades/)
 
 <!--
 **ricardoferreirades/ricardoferreirades** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

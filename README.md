@@ -1,8 +1,8 @@
 ## Hey, I'm Ricardo 👋
 
-:sunglasses: - Software developer
-:brazil: - Born in Brazil
-:de: Living in Germany
+- :sunglasses: - Software developer
+- :brazil: - Born in Brazil
+- :de: Living in Germany
 
 
 ## Find me on

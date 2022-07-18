@@ -24,4 +24,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![NodeJS](https://img.shields.io/badge/-NodeJS-339933?logo=node.js&logoColor=white&style=flat) ![Angular](https://img.shields.io/badge/-Angular-DD0031?logo=angular&style=flat) ![React](https://img.shields.io/badge/-ReactJs-61DAFB?logo=react&logoColor=white&style=flat)
+![NodeJS](https://img.shields.io/badge/-NodeJS-339933?logo=node.js&logoColor=white&style=flat) ![Angular](https://img.shields.io/badge/-Angular-DD0031?logo=angular&style=flat) ![React](https://img.shields.io/badge/-ReactJs-61DAFB?logo=react&logoColor=white&style=flat) [![solidity](https://img.shields.io/badge/solidity-002fa7?logo=solidity)]()
